@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Jorge Cabeza — Developer & Big Data / AI Student ⚔️</h1>
+<h1 align="center"> Jorge Cabeza — Developer & Big Data / AI Student </h1>
 
 <p align="center">
   <em>"Si vas a hacer algo, hazlo bien. No por obligación, sino por respeto a ti mismo."</em>
@@ -34,7 +34,6 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Kbza&show_icons=true&theme=radical&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jorge-Kbza&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
