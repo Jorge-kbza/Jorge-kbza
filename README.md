@@ -18,11 +18,11 @@
 ## ⚡ Stack Principal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,linux,docker,mysql,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,kotlin,docker,mysql,mongodb,redis&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,flutter,androidstudio,kafka&theme=dark" />
 </p>
 
 ---
