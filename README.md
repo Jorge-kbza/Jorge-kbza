@@ -6,8 +6,6 @@
 
 ---
 
-<img align="right" src="https://i.imgur.com/6RYxk7i.gif" width="260" />
-
 ## 🧠 Sobre mí
 - 📚 Estudiante del **Curso de Especialización en Big Data & Inteligencia Artificial**.  
 - 🛠️ Desarrollo proyectos propios y también ideas en equipo con amigos: desde experimentos técnicos hasta prototipos completos.  
@@ -36,8 +34,8 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Kbza&show_icons=true&theme=emerald&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jorge-Kbza&layout=compact&theme=emerald&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Kbza&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jorge-Kbza&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -53,10 +51,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/2X63N46.gif" width="240" />
-</p>
 
 <h3 align="center">⚔️ Gracias por pasarte. Seguimos subiendo de nivel. ⚔️</h3>
 
