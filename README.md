@@ -1,57 +1,62 @@
-# 🚀 Bienvenido a mi perfil de GitHub  
-<img src="https://i.imgur.com/HXK9X5X.gif" width="260" align="right"/>
+<h1 align="center">⚔️ Jorge Cabeza — Developer & Big Data / AI Student ⚔️</h1>
 
-### 👋 Hey, soy un developer al que le encanta crear, aprender y romper cosas (para luego arreglarlas mejor 😎).
-
-Aquí encontrarás proyectos, experimentos, ideas locas y tecnología por todas partes.  
-Prepárate, porque aquí se viene **código con estilo**. ⚡
-
----
-
-## 🔥 Sobre mí
-- 💻 Apasionado por la tecnología y el diseño limpio  
-- 🎮 Gamer cuando no estoy programando  
-- ☕ Funciono a base de café  
-- 🚀 Siempre aprendiendo algo nuevo  
-- 🛠️ Me encanta construir cosas que realmente funcionan  
-
----
-
-## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,python,nodejs,git,github,vscode,linux&theme=dark" />
+  <em>"Si vas a hacer algo, hazlo bien. No por obligación, sino por respeto a ti mismo."</em>
 </p>
 
 ---
 
-## ⚡ Filosofía de desarrollo  
-> "Hazlo simple. Hazlo rápido. Hazlo bien."  
-> "Un buen developer no memoriza, sabe dónde buscar."  
-> "Build → break → fix → repeat."  
+<img align="right" src="https://i.imgur.com/6RYxk7i.gif" width="260" />
+
+## 🧠 Sobre mí
+- 📚 Estudiante del **Curso de Especialización en Big Data & Inteligencia Artificial**.  
+- 🛠️ Desarrollo proyectos propios y también ideas en equipo con amigos: desde experimentos técnicos hasta prototipos completos.  
+- 🧩 Me gusta construir sistemas que **funcionen, escalen y tengan sentido**, no solo que se vean bonitos.  
+
+---
+
+## ⚡ Stack Principal  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,linux,docker,mysql,mongodb,redis&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,androidstudio,kafka&theme=dark" />
+</p>
+
+---
+
+## 🧭 Filosofía de desarrollo
+> 🗡️ *“No busco ser el mejor, busco ser constante. La constancia gana partidas.”*  
+> ⚔️ *“Build → improve → evolve. Como en un buen RPG, siempre hay un siguiente nivel.”*  
+> 🖤 *“La excelencia no es un acto, es un hábito.”*  
 
 ---
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Kbza&show_icons=true&theme=emerald&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jorge-Kbza&layout=compact&theme=emerald&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🌐 Redes
+## 🧩 Contacto & Redes  
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1f1f1f?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jorge-cabeza-campos-281b31308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jorgecabeza184@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/oZ5N5Sp.gif" width="200" />
+  <img src="https://i.imgur.com/2X63N46.gif" width="240" />
 </p>
 
-<p align="center">
-  ⚡ *Gracias por pasarte. ¡Nos vemos en el código!* ⚡  
-</p>
+<h3 align="center">⚔️ Gracias por pasarte. Seguimos subiendo de nivel. ⚔️</h3>
+
