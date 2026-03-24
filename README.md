@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,flutter,androidstudio,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,flutter,elasticsearch,postgresql,androidstudio,kafka&theme=dark" />
 </p>
 
 ---
